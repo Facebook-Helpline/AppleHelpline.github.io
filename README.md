@@ -14,6 +14,6 @@
 	<li>Tracking Your Items</li>
 	<li>Shipping Your Items</li>
 	<li>Creating Your List</li>
-	<li>Manage Returns,Missing Items and refunds for sellers and all</li>
+	<li>Manage Returns,Missing Items and refunds for sellers</li>
 		
 </ol>
